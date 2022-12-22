@@ -1,0 +1,8 @@
+**/target
+**/.vscode
+**/.classpath
+**/.project
+**/.settings/
+**/.idea
+.DS_Store
+/spring-jdbc-template-complex-relationships/nbproject/
