@@ -1,0 +1,5 @@
+---
+!!com.example.yaml.Customer
+firstName: "John"
+lastName: "Doe"
+age: 20
