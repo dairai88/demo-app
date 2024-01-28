@@ -36,7 +36,7 @@ public class ContactApp {
                     String email = promptMessage("Enter contact's email: ");
                     String phone = promptMessage("Enter contact's phone: ");
 
-                    String contact = createContact(count, firstName, lastName, company, email, phone);
+                    createContact(count, firstName, lastName, company, email, phone);
                     count++;
                     break;
                 case 2:
