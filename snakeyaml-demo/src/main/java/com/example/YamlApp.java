@@ -14,12 +14,6 @@ import com.example.yaml.Customer;
 public class YamlApp {
     
     public static void main(String[] args) {
-        
-        // LoaderOptions loaderOptions = new LoaderOptions();
-        // TagInspector tagInspector = tag -> tag.getClassName().equals(Customer.class.getName());
-        // loaderOptions.setTagInspector(tagInspector);
-
-        // loadCustomerWithGenericContact();
 
         loadAllCustomers();
     }
